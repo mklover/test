@@ -1,0 +1,4 @@
+config=array（
+  'dbname'=>loclahost,
+  'dbpassword'=>'',
+）
